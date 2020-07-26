@@ -86,9 +86,12 @@ You can add multiple IDs seperated by space.
 * `R_CLONE_CONF_URI`:
 ![a help, maybe](https://telegra.ph/file/073bcbc0b69b03d75ea04.jpg)
 
+* `SHOULD_USE_BUTTONS`: because, [BlameTelegram](https://t.me/c/1494623325/5603)
+
 ## Available Commands
 
-* No Commands. 👉 BUTTONS better 👈
+* The available commands depends on the ENVironment / CONfig variables that is set by you.
+
 
 ## How to Use?
 
@@ -109,6 +112,7 @@ You can add multiple IDs seperated by space.
 
 ## Credits, and Thanks to
 
+* [me](https://GitHub.com/SpEcHIDe/PublicLeech)
 * [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 * [Robots](https://telegram.dog/Robots) for their [@UploadBot](https://telegram.dog/UploadBot)
 * [@AjeeshNair](https://telegram.dog/AjeeshNait) for his [torrent.ajee.sh](https://torrent.ajee.sh)
